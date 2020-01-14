@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac045795-6ee8-4e33-b497-41028b77310c" name="Default Changelist" comment="" />
+    <list default="true" id="ac045795-6ee8-4e33-b497-41028b77310c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/attractions/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/attractions/Playground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/attractions/PlaygroundTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,17 +23,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1WOIAKJyaR29xVJ0lRPBWaskAjQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579012822358" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PlaygroundTest.isNotAllowedOnPlayground">
     <configuration name="All in ThemeParkStartPoint" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThemeParkStartPoint" />
       <option name="PACKAGE_NAME" value="" />
@@ -34,8 +44,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PlaygroundTest.isAllowedOnPlayground" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.PlaygroundTest" />
+      <option name="METHOD_NAME" value="isAllowedOnPlayground" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlaygroundTest.isNotAllowedOnPlayground" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ThemeParkStartPoint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="attractions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="attractions" />
+      <option name="MAIN_CLASS_NAME" value="attractions.PlaygroundTest" />
+      <option name="METHOD_NAME" value="isNotAllowedOnPlayground" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PlaygroundTest.isNotAllowedOnPlayground" />
+        <item itemvalue="JUnit.PlaygroundTest.isAllowedOnPlayground" />
         <item itemvalue="JUnit.All in ThemeParkStartPoint" />
       </list>
     </recent_temporary>
@@ -65,10 +109,23 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="All_in_ThemeParkStartPoint - 2020.01.14 at 14h 38m 55s.xml">
-      <configuration name="All in ThemeParkStartPoint" configurationId="JUnit" />
-    </history-entry>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="202" key="GridCell.Tab.0.bottom" timestamp="1579016336002">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1579016336002" />
+    <state width="1398" height="202" key="GridCell.Tab.0.center" timestamp="1579016336001">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1579016336001" />
+    <state width="1398" height="202" key="GridCell.Tab.0.left" timestamp="1579016336000">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1579016336000" />
+    <state width="1398" height="202" key="GridCell.Tab.0.right" timestamp="1579016336001">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="202" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1579016336001" />
   </component>
   <component name="masterDetails">
     <states>
