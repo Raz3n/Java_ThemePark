@@ -2,7 +2,6 @@ package attractions;
 
 import org.junit.Before;
 import org.junit.Test;
-
 import people.Visitor;
 
 import static org.junit.Assert.*;
